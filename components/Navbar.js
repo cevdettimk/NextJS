@@ -8,7 +8,7 @@ const Navabar = () => {
             </div>
             <Link href="/"><a>Home</a></Link> 
             <Link href="/about"><a>About</a></Link> 
-            <Link href="/views"><a>Users Listing</a></Link> 
+            <Link href="/users"><a>Users Listing</a></Link> 
             
         </nav>
      );

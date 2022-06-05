@@ -14,7 +14,7 @@ export default function Home() {
           <p className={styles.text}>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs</p>
           <p className={styles.text}>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs</p>
           <p className={styles.text}>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs</p>
-          <Link  href="/views">
+          <Link  href="/users">
             <a className={styles.btn}>Listele</a>
           </Link>
         </div>
